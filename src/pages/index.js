@@ -5,6 +5,11 @@ import Layout from "../components/layout"
 import Image from "../components/image"
 import SEO from "../components/seo"
 
+export const frontmatter = {
+    title: "Home Page",
+    path: "/"
+}
+
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
@@ -14,8 +19,9 @@ const IndexPage = () => (
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
-    <Link to="/tecdata/">TecDataPage</Link> <br />
-    <Link to="/search/">SearchPage</Link> <br />
+    <Link to="/tecdata/">TecData Page</Link> <br />
+    <Link to="/search/">Search Page</Link> <br />
+    <Link to="/current-account/">Current Account Page</Link> <br />
   </Layout>
 )
 

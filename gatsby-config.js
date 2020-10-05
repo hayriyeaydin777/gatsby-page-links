@@ -13,6 +13,7 @@ module.exports = {
         path: `${__dirname}/src/pages/`,
       },
     },
+    `gatsby-transformer-javascript-frontmatter`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
