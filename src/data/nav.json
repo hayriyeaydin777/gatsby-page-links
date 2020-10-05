@@ -1,0 +1,215 @@
+[
+    {
+        "id": 1,
+        "className": "nav home",
+        "title": "Anasayfa",
+        "page": "",
+        "order": 0,
+        "status": true,
+        "isTabs": false,
+        "tabs": []
+    },
+    {
+        "id": 2,
+        "className": "nav tecdata",
+        "title": "TecData",
+        "page": "tecdata",
+        "order": 1,
+        "status": true,
+        "isTabs": false,
+        "tabs": []
+    },
+    {
+        "id": 3,
+        "className": "nav search",
+        "title": "Arama",
+        "page": "search",
+        "order": 2,
+        "status": true,
+        "isTabs": false,
+        "tabs": []
+    },
+    {
+        "id": 4,
+        "className": "nav basket",
+        "title": "Sepet",
+        "page": "basket",
+        "order": 3,
+        "status": true,
+        "isTabs": false,
+        "tabs": []
+    },
+    {
+        "id": 5,
+        "className": "nav balance",
+        "title": "Bakiye",
+        "page": "balance",
+        "order": 4,
+        "status": true,
+        "isTabs": false,
+        "tabs": []
+    },
+    {
+        "id": 6,
+        "className": "nav order",
+        "title": "Sipariş",
+        "page": "orders",
+        "order": 5,
+        "status": true,
+        "isTabs": false,
+        "tabs": []
+    },
+    {
+        "id": 7,
+        "className": "nav oem",
+        "title": "Oem",
+        "page": "oem",
+        "order": 6,
+        "status": true,
+        "isTabs": false,
+        "tabs": []
+    },
+    {
+        "id": 8,
+        "className": "nav current-account",
+        "title": "Cari Hesap",
+        "page": "current-account",
+        "order": 7,
+        "status": true,
+        "isTabs": false,
+        "tabs": []
+    },
+    {
+        "id": 9,
+        "className": "nav payment",
+        "title": "Online Öde",
+        "page": "payment",
+        "order": 8,
+        "status": true,
+        "isTabs": false,
+        "tabs": []
+    },
+    {
+        "id": 10,
+        "className": "nav catelog",
+        "title": "Katalog",
+        "page": "catelog",
+        "order": 9,
+        "status": true,
+        "isTabs": false,
+        "tabs": []
+    },
+    {
+        "id": 11,
+        "className": "nav report",
+        "title": "Rapor",
+        "page": "report",
+        "order": 10,
+        "status": true,
+        "isTabs": false,
+        "tabs": []
+    },
+    {
+        "id": 12,
+        "className": "nav other",
+        "title": "Diğer",
+        "page": "?dropdown=12",
+        "order": 11,
+        "status": true,
+        "isTabs": true,
+        "tabs": [
+            {
+                "id": 13,
+                "className": "nav new-page",
+                "title": "Alt Sayfa 1",
+                "page": "new-page",
+                "order": 0,
+                "status": true,
+                "isTabs": false,
+                "tabs": []
+            },
+            {
+                "id": 14,
+                "className": "nav new-page",
+                "title": "Alt Sayfa 2",
+                "page": "new-page",
+                "order": 0,
+                "status": true,
+                "isTabs": false,
+                "tabs": []
+            },
+            {
+                "id": 15,
+                "className": "nav new-page",
+                "title": "Alt Sayfa 3",
+                "page": "new-page",
+                "order": 0,
+                "status": true,
+                "isTabs": true,
+                "tabs": [
+                    {
+                        "id": 17,
+                        "className": "nav new-page",
+                        "title": "Alt Alt Sayfa 1",
+                        "page": "new-page",
+                        "order": 0,
+                        "status": true,
+                        "isTabs": false,
+                        "tabs": []
+                    },
+                    {
+                        "id": 18,
+                        "className": "nav new-page",
+                        "title": "Alt Alt Sayfa 2",
+                        "page": "new-page",
+                        "order": 0,
+                        "status": true,
+                        "isTabs": true,
+                        "tabs": [
+                            {
+                                "id": 20,
+                                "className": "nav new-page",
+                                "title": "Alt Alt Alt Sayfa 1",
+                                "page": "new-page",
+                                "order": 0,
+                                "status": true,
+                                "isTabs": false,
+                                "tabs": []
+                            },
+                            {
+                                "id": 21,
+                                "className": "nav new-page",
+                                "title": "Alt Alt Alt Sayfa 2",
+                                "page": "new-page",
+                                "order": 0,
+                                "status": true,
+                                "isTabs": false,
+                                "tabs": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 19,
+                        "className": "nav new-page",
+                        "title": "Alt Alt Sayfa 3",
+                        "page": "new-page",
+                        "order": 0,
+                        "status": true,
+                        "isTabs": false,
+                        "tabs": []
+                    }
+                ]
+            },
+            {
+                "id": 16,
+                "className": "nav new-page",
+                "title": "Alt Sayfa 4",
+                "page": "new-page",
+                "order": 0,
+                "status": true,
+                "isTabs": false,
+                "tabs": []
+            }
+        ]
+    }
+]
